@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm xingranya,中文昵称：星苒鸭</h1>
+<h1 align="center">Hi there 👋, I'm xingranya/星苒鸭</h1>
 <h3 align="center">A passionate developer from China</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xingranya&label=Profile%20views&color=0e75b6&style=flat" alt="xingranya" /> </p>
