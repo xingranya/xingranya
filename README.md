@@ -10,6 +10,7 @@
 - 🤔 I’m looking for help with **any interesting computer-related problems I encounter**.
 - 💬 Ask me about **Android/Windows/Mac OS, KSU/Magisk modules, and system optimization/beautification**.
 - 📫 How to reach me: **xingranya@outlook.jp**
+- Web: "https://xingranya.cn"
 
 <p align="left">
   <a href="https://github.com/xingranya?tab=followers">
