@@ -12,7 +12,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2200&pause=500&color=F093FB&center=true&vCenter=true&width=900&lines=%E2%9A%A1+Java+%7C+Spring+Boot+%7C+Vue3+%7C+Node.js+%7C+Kotlin+%7C+MySQL+%7C+Redis+%7C+MyBatis+%7C+Git+%7C+Maven+%7C+Gradle+%E2%9A%A1" alt="Tech Stack Marquee" />
 
 <h1>👋 你好，我是 <b>星苒鸭</b>（xingranya）</h1>
-  <p>🎓 计算机科学与技术本科生 · 💻 全栈开发爱好者 · 🚀 开源实践者</p>
+  <p>🎓 计算机科学与技术本科生 · 💻 全栈开发爱好者</p>
 
 <p>
     <a href="https://xingranya.cn" target="_blank"><img src="https://img.shields.io/badge/🌐%20Website-xingranya.cn-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
@@ -29,13 +29,9 @@
 我喜欢捣鼓一些新颖的产品,不管是软件还是电子产品,同类里面性价比最高的永远是好的。🙂
 相比炫技，我更在意代码是否 **清晰、稳定、可维护**；相比堆功能，我更关注是否真正解决问题。🔧
 
-平时主要围绕 **Java / Spring Boot / Vue3 / Node.js** 做全栈实践，也会持续折腾系统优化、效率工具和自动化流程。⚙️
+平时主要围绕 **Java / Rust / Vue3 / Node.js** 做全栈实践，也会持续折腾系统优化、效率工具和自动化流程。⚙️
 
-- 🔭 当前主攻：**Java 后端工程化 + Vue3 前端实践 + Node.js 工具化**
-- 🌱 近期学习：**系统架构、容器化部署、性能优化、Kotlin 生态**
-- 🧠 技术偏好：**简洁设计、模块化、可读性优先、渐进式优化**
-- 🛠️ 开发习惯：**先跑通、再抽象、最后打磨体验**
-- 🤝 合作方向：**有技术挑战、能真实创造价值的项目**
+- 🤝 喜欢研究：**有技术挑战、能真实创造价值的项目**
 - 📬 联系方式：`xingranya@outlook.jp`
 - 🌐 个人网站：`https://xingranya.cn`
 
@@ -47,12 +43,6 @@
 
 - 🥈 **2025 全国大学生计算机设计大赛（中南赛区）省级二等奖**
 - 🥈 **2025 第二届 CACC 算法大赛区域赛二等奖**
-
-这些经历让我更加明白：
-
-- 📌 需求理解与任务拆解
-- 📌 团队协作与沟通推进
-- 📌 在压力下保持代码质量与交付稳定性
 
 ---
 
@@ -95,12 +85,6 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
-📌 对我来说，技术栈不只是“会用”，更是：
-
-- 能否组合成稳定方案
-- 能否沉淀为可维护结构
-- 能否在迭代中持续优化体验与性能
-
 ---
 
 ## 📊 GitHub 统计
@@ -122,7 +106,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=xingranya&theme=github-compact&hide_border=true" width="95%" alt="Activity Graph" />
 </div>
 
-📎 说明：第三方卡片服务偶尔会出现缓存延迟或访问抖动，刷新页面通常可恢复显示。🔄
+📎 tips：第三方卡片服务偶尔会出现缓存延迟或访问抖动，刷新页面通常可恢复显示。🔄
 
 ---
 
@@ -145,16 +129,13 @@
 
 ### 🧩 项目方向（持续迭代中）
 
-- 📝 **xingranya-blog**：个人内容平台与前后端联动实现
+- 📝 **xingranya-blog**：个人内容平台
 - 🧱 **JingWenWall**：聚合场景下的校园小程序交互和结构打磨
-- 💡 **SmartTech**：技术探索与场景化功能实现
-
 ---
 
 ## 🧭 最近在做什么
 
-- 🧪 把“可跑通”升级成“可维护、可扩展、可复用”
-- 📚 梳理 Java + Spring Boot + Vue3 + Node.js 的完整实践链路
+- 📚 学习 Java + Quasar Vue3 + Node.js 的完整实践链路
 - 🧰 沉淀脚手架、自动化脚本与个人效率工具
 - 🤝 欢迎在 Issues 或邮件交流技术问题和实现细节
 
@@ -188,11 +169,10 @@
 
 ## 📜 开源贡献
 
-<!-- 动态更新贡献列表（可配合 Actions 自动写入） -->
 
 <!-- CONTRIB-LIST:START -->
 
-- OQQWall项目的网页审核功能完整实现
+- OQQWall-rust项目的网页审核功能完整实现
 - 🌟 欢迎交流项目优化、工程化实践与技术思路
 
 <!-- CONTRIB-LIST:END -->
