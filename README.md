@@ -114,17 +114,17 @@
 ## 🚀 精选项目
 
 <div align="center">
-  <a href="https://github.com/xingranya/daily_stock_analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xingranya&repo=daily_stock_analysis&hide_border=true&theme=transparent" width="49%" alt="daily_stock_analysis" />
+  <a href="https://github.com/xingranya/OQQWall_rust">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xingranya&repo=OQQWall_rust&hide_border=true&theme=transparent" width="49%" alt="OQQWall_rust" />
   </a>
-  <a href="https://github.com/xingranya/xingranya-blog">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xingranya&repo=xingranya-blog&hide_border=true&theme=transparent" width="49%" alt="xingranya-blog" />
+  <a href="https://github.com/xingranya/SPlayer-Next">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xingranya&repo=SPlayer-Next&hide_border=true&theme=transparent" width="49%" alt="SPlayer-Next" />
   </a>
-  <a href="https://github.com/xingranya/JingWenWall">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xingranya&repo=JingWenWall&hide_border=true&theme=transparent" width="49%" alt="JingWenWall" />
+  <a href="https://github.com/xingranya/nosleep-mac">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xingranya&repo=nosleep-mac&hide_border=true&theme=transparent" width="49%" alt="nosleep-mac" />
   </a>
-  <a href="https://github.com/xingranya/SmartTech">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xingranya&repo=SmartTech&hide_border=true&theme=transparent" width="49%" alt="SmartTech" />
+  <a href="https://github.com/xingranya/CC-Statusline-Builder">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xingranya&repo=CC-Statusline-Builder&hide_border=true&theme=transparent" width="49%" alt="CC-Statusline-Builder" />
   </a>
 </div>
 
