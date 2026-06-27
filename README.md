@@ -1,7 +1,3 @@
----
-title: 关于我
-date: 2026-06-27 12:53:46
----
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,27,30&text=%E6%98%9F%E8%8B%92%E9%B8%AD%20%7C%20xingranya&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=%E7%83%AD%E7%88%B1%E4%BB%A3%E7%A0%81%20%E2%80%A2%20%E6%8C%81%E7%BB%AD%E6%8A%98%E8%85%BE%20%E2%80%A2%20%E4%BA%AB%E5%8F%97%E5%88%9B%E9%80%A0&descSize=16&descAlignY=58&animation=fadeIn" width="100%" />
 
