@@ -1,3 +1,7 @@
+---
+title: 关于我
+date: 2026-06-27 12:53:46
+---
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,27,30&text=%E6%98%9F%E8%8B%92%E9%B8%AD%20%7C%20xingranya&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=%E7%83%AD%E7%88%B1%E4%BB%A3%E7%A0%81%20%E2%80%A2%20%E6%8C%81%E7%BB%AD%E6%8A%98%E8%85%BE%20%E2%80%A2%20%E4%BA%AB%E5%8F%97%E5%88%9B%E9%80%A0&descSize=16&descAlignY=58&animation=fadeIn" width="100%" />
 
@@ -28,7 +32,7 @@
 
 我喜欢捣鼓一些新颖的产品,不管是软件还是电子产品,同类里面性价比最高的永远是好的。🙂
 
-平时主要围绕 **Java / Rust / Vue3 / Node.js** 做全栈实践，也会持续折腾系统优化、效率工具和自动化流程。⚙️
+平时主要围绕 **Java / Rust / Vue3 / Node.js / React** 做全栈实践，也会持续折腾系统优化、效率工具和自动化流程。⚙️
 
 - 🤝 喜欢研究：**有技术挑战、能真实创造价值的项目**
 - 📬 联系方式：`xingranya@outlook.jp`
@@ -130,15 +134,21 @@
 
 ### 🧩 项目方向（持续迭代中）
 
-- 📝 **xingranya-blog**：个人内容平台
-- 🧱 **JingWenWall**：聚合场景下的校园小程序交互和结构打磨
+- 📝 **xingranya-blog**：个人内容平台，持续打磨博客展示、内容沉淀与前端体验。
+- 🧱 **JingWenWall**：聚合场景下的校园小程序交互和结构打磨。
+- 🔧 **OQQWall_rust**：参与审核后台、发布流程与多架构构建优化，提升项目交付稳定性。
+- 🧩 **SPlayer-Next**：参与 macOS 端界面细节修复，改善灵动岛刘海区域对齐体验。
+- 🤖 **chaoxing-agent-skill**：补充 Playwright CLI CAPTCHA 处理方案，增强通用 Agent 自动化能力。
+
 ---
 
 ## 🧭 最近在做什么
 
-- 📚 学习 Java + Quasar Vue3 + Node.js 的完整实践链路
-- 🧰 沉淀脚手架、自动化脚本与个人效率工具
-- 🤝 欢迎在 Issues 或邮件交流技术问题和实现细节
+- **OQQWall_rust**：合并多架构构建与手动发布流程、支持手动填写发布更新日志、修复审核后台核心交互并提升审计可读性。
+- **SPlayer-Next**：修复 macOS 灵动岛刘海对齐问题，优化桌面端显示细节。
+- **chaoxing-agent-skill**：添加 Playwright CLI CAPTCHA 解决方案，支持更通用的 Agent 工作流。
+- 📚 继续完善 Java + Quasar Vue3 + Node.js 的完整实践链路，沉淀脚手架、自动化脚本与个人效率工具。
+- 🤝 欢迎在 Issues 或邮件交流技术问题、开源协作与实现细节。
 
 ---
 
@@ -167,16 +177,6 @@
 </div>
 
 ---
-
-## 📜 开源贡献
-
-
-<!-- CONTRIB-LIST:START -->
-
-- OQQWall-rust项目的网页审核功能完整实现
-- 🌟 欢迎交流项目优化、工程化实践与技术思路
-
-<!-- CONTRIB-LIST:END -->
 
 <div align="center">
   <p>
