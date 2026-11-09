@@ -34,7 +34,6 @@
 - 📬 联系方式：`xingranya@outlook.jp`
 - 🌐 个人网站：`https://xran.uk`
 
-> 💬 一句话：**把复杂问题拆简单，把简单方案做扎实。**
 
 ---
 
@@ -132,14 +131,6 @@
   </a>
 </div>
 
-### 🧩 项目方向（持续迭代中）
-
-- 📝 **xingranya-blog**：个人内容平台，持续打磨博客展示、内容沉淀与前端体验。
-- 🧱 **JingWenWall**：聚合场景下的校园小程序交互和结构打磨。
-- 🔧 **OQQWall_rust**：参与审核后台、发布流程与多架构构建优化，提升项目交付稳定性。
-- 🧩 **SPlayer-Next**：参与 macOS 端界面细节修复，改善灵动岛刘海区域对齐体验。
-- 🤖 **chaoxing-agent-skill**：补充 Playwright CLI CAPTCHA 处理方案，增强通用 Agent 自动化能力。
-
 ---
 
 ## 🧭 最近在做什么
@@ -191,7 +182,7 @@
 如果你也喜欢折腾技术、做有趣项目，欢迎来交流～ 😄
 
 - 📮 邮箱：**xingranya@outlook.jp**
-- 🌐 网站：**https://xingranya.cn**
+- 🌐 主页：**https://xran.uk**
 - 🐙 GitHub：**https://github.com/xingranya**
 
 <div align="center">
