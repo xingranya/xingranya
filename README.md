@@ -15,7 +15,7 @@
   <p>🎓 计算机科学与技术本科生 · 💻 全栈开发爱好者</p>
 
 <p>
-    <a href="https://xingranya.cn" target="_blank"><img src="https://img.shields.io/badge/🌐%20Website-xingranya.cn-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
+    <a href="https://xran.uk" target="_blank"><img src="https://img.shields.io/badge/🌐%20Website-xran.uk-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
     <a href="mailto:xingranya@outlook.jp"><img src="https://img.shields.io/badge/📮%20Email-xingranya@outlook.jp-EA4335?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" /></a>
     <a href="https://github.com/xingranya?tab=followers"><img src="https://img.shields.io/github/followers/xingranya?label=👥%20Followers&style=for-the-badge" alt="Followers" /></a>
     <img src="https://komarev.com/ghpvc/?username=xingranya&style=for-the-badge&label=👀%20Profile+Views" alt="Profile Views" />
@@ -94,42 +94,28 @@
 ## 📊 GitHub 统计
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xingranya&show_icons=true&hide_border=true&theme=transparent&locale=cn&cache_seconds=1800" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xingranya&layout=compact&hide_border=true&theme=transparent&locale=cn&cache_seconds=1800" width="49%" alt="Top Languages" />
+  <a href="https://ghfind.com/u/xingranya?ref=badge">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/xingranya?theme=dark&lang=zh" />
+      <img src="https://ghfind.com/api/card/mini/xingranya?theme=light&lang=zh" alt="GitHub Roast 评分卡" width="440" />
+    </picture>
+  </a>
 </div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=xingranya&hide_border=true&theme=transparent&locale=zh_Hans" width="60%" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=xingranya&theme=flat&no-frame=true&row=1&column=7" width="95%" alt="Trophy" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xingranya&theme=github-compact&hide_border=true" width="95%" alt="Activity Graph" />
-</div>
-
-📎 tips：第三方卡片服务偶尔会出现缓存延迟或访问抖动，刷新页面通常可恢复显示。🔄
+📎 贡献、提交语言和提交时间见下方详细统计；第三方卡片的更新时间可能与 GitHub 页面不同。
 
 ---
 
 ## 🚀 精选项目
 
-<div align="center">
-  <a href="https://github.com/xingranya/OQQWall_rust">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xingranya&repo=OQQWall_rust&hide_border=true&theme=transparent" width="49%" alt="OQQWall_rust" />
-  </a>
-  <a href="https://github.com/xingranya/SPlayer-Next">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xingranya&repo=SPlayer-Next&hide_border=true&theme=transparent" width="49%" alt="SPlayer-Next" />
-  </a>
-  <a href="https://github.com/xingranya/nosleep-mac">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xingranya&repo=nosleep-mac&hide_border=true&theme=transparent" width="49%" alt="nosleep-mac" />
-  </a>
-  <a href="https://github.com/xingranya/CC-Statusline-Builder">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xingranya&repo=CC-Statusline-Builder&hide_border=true&theme=transparent" width="49%" alt="CC-Statusline-Builder" />
-  </a>
-</div>
+- [OQQWall_rust](https://github.com/xingranya/OQQWall_rust)：Rust 版 QQ 校园墙。
+- [SPlayer-Next](https://github.com/xingranya/SPlayer-Next)：跨平台桌面音乐播放器，支持丰富歌词与音频格式。
+- [nosleep-mac](https://github.com/xingranya/nosleep-mac)：MacBook 合盖不休眠，自动关闭屏幕省电。
+- [CC-Statusline-Builder](https://github.com/xingranya/CC-Statusline-Builder)：Claude Code 状态栏的可视化配置工具。
 
 ---
 
@@ -161,7 +147,6 @@
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xingranya&theme=github_dark" width="95%" alt="Profile Details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xingranya&theme=github_dark" width="47%" alt="Repos per Language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xingranya&theme=github_dark" width="47%" alt="Most Commit Language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xingranya&theme=github_dark" width="47%" alt="Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xingranya&theme=github_dark&utcOffset=8" width="47%" alt="Productive Time" />
