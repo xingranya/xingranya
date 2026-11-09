@@ -17,7 +17,7 @@
 <p>
     <a href="https://xran.uk" target="_blank"><img src="https://img.shields.io/badge/🌐%20Website-xran.uk-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
     <a href="mailto:xingranya@outlook.jp"><img src="https://img.shields.io/badge/📮%20Email-xingranya@outlook.jp-EA4335?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" /></a>
-    <a href="https://github.com/xingranya?tab=followers"><img src="https://img.shields.io/github/followers/xingranya?label=👥%20Followers&style=for-the-badge" alt="Followers" /></a>
+    <a href="https://github.com/xingranya?tab=followers"><img src="https://img.shields.io/github/followers/xingranya?label=Followers&style=for-the-badge&logo=github" alt="Followers" /></a>
     <img src="https://komarev.com/ghpvc/?username=xingranya&style=for-the-badge&label=👀%20Profile+Views" alt="Profile Views" />
   </p>
 </div>
@@ -110,22 +110,26 @@
 
 ---
 
-## 🚀 精选项目
+## 🚀 项目推荐
 
-- [OQQWall_rust](https://github.com/xingranya/OQQWall_rust)：Rust 版 QQ 校园墙。
-- [SPlayer-Next](https://github.com/xingranya/SPlayer-Next)：跨平台桌面音乐播放器，支持丰富歌词与音频格式。
-- [nosleep-mac](https://github.com/xingranya/nosleep-mac)：MacBook 合盖不休眠，自动关闭屏幕省电。
-- [CC-Statusline-Builder](https://github.com/xingranya/CC-Statusline-Builder)：Claude Code 状态栏的可视化配置工具。
+按公开非 Fork 项目的 Star 数排序，统计于 2026 年 11 月 9 日。
+
+- [GitHub-Stars-AI-Tools](https://github.com/xingranya/GitHub-Stars-AI-Tools) · **112 ★**：本地优先的 GitHub Stars AI 桌面应用，支持 AI 检索与解析已收藏项目。
+- [OnePlus16-Jailbreak](https://github.com/xingranya/OnePlus16-Jailbreak) · **12 ★**：一加 16 临时 root 与 KernelSU-Next LKM 实践。
+- [onekeyjb](https://github.com/xingranya/onekeyjb) · **7 ★**：一加 16 / Ace 7 Pro 本地越狱工具，使用 Kotlin 与 Compose 开发。
+- [CervixDetectAI](https://github.com/xingranya/CervixDetectAI) · **3 ★**：宫颈癌影像 AI 辅助分析平台。
+- [sync-readme-wiki](https://github.com/xingranya/sync-readme-wiki) · **3 ★**：根据真实代码变更同步 README 与 Wiki 的 AI 技能。
 
 ---
 
 ## 🧭 最近在做什么
 
-- **OQQWall_rust**：合并多架构构建与手动发布流程、支持手动填写发布更新日志、修复审核后台核心交互并提升审计可读性。
-- **SPlayer-Next**：修复 macOS 灵动岛刘海对齐问题，优化桌面端显示细节。
-- **chaoxing-agent-skill**：添加 Playwright CLI CAPTCHA 解决方案，支持更通用的 Agent 工作流。
-- 📚 继续完善 Java + Quasar Vue3 + Node.js 的完整实践链路，沉淀脚手架、自动化脚本与个人效率工具。
-- 🤝 欢迎在 Issues 或邮件交流技术问题、开源协作与实现细节。
+最近两周的公开更新，截至 2026 年 11 月 9 日。
+
+- **[onekeyjb](https://github.com/xingranya/onekeyjb)**：迭代 2.19.x 版本，重做原生界面，同步管理器并完善 ksud 兼容处理。
+- **[fucksh](https://github.com/xingranya/fucksh)**：完成 1.0.0 的 libxposed 拦截与界面重构，围绕 ColorOS / 一加 16 的 SystemHelper 上报拦截与隐私保护继续完善。
+- **[OpenMAIC-physics](https://github.com/xingranya/OpenMAIC-physics)**：完善大学物理 AI 课堂的课前诊断、课中学习和课后评价，补齐学生端、教师端、分层练习与互评流程。
+- **[个人主页](https://xran.uk) / [博客](https://blog.xran.uk)**：更新番剧墙与友链，发布 GitHub 账号申诉经历，并修复手机端长图预览。
 
 ---
 
